@@ -21,7 +21,6 @@
 - 🎓 Pursuing Master's in **Information Systems Engineering & Data Science** at FSEGT Tunis
 - 🌱 Currently exploring **Machine Learning and Data Mining**
 - 💡 Passionate about **data-driven solutions** and **IoT innovations**
-- 🔭 Open to **summer internships** in Data Science/AI
 - 📫 Reach me: **rajabelhadjromdhane@gmail.com**
 
 </div>
@@ -89,18 +88,9 @@
 - Volunteer @ Medina des lumiéres (2025)
 
 ### ✨ Fun Fact
-I'm passionate about gardening (especially roses) and singing!
+I'm passionate about gardening  and singing!
 
-## 📊 GitHub Stats
 
-<div class="flex flex-cols-6" align="center">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajabelHadj&layout=compact&theme=radical)  
-<img src="https://github-readme-stats.vercel.app/api?username=RajabelHadj&show_icons=true&theme=tokyonight" />
-</div>
-
-<div class="flex flex-cols-6" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajabelHadj&theme=tokyonight" />
-</div>
 
 </div>
 </section>
